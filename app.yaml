@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-nextjs-react-server-components
+owner: syrusakbary
+package: .
